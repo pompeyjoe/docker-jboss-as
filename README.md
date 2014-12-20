@@ -1,4 +1,4 @@
-# WildFly Docker image
+# JBoss AS Docker image
 
 This is an example Dockerfile with JBoss Application Server v7.1.1.
 
